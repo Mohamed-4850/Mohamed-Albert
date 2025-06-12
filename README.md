@@ -17,7 +17,7 @@ represented online.
 - Social Media Management & Public Engagement: Oversee IHPD’s LinkedIn and Facebook 
 platforms, curating engaging content, interacting with the audience, and enhancing the 
 Institute’s visibility in the public health sector.
-### Certifications and Liscense
+### Certifications and License
 Full Member | African Institute for Public Health Professionals (AIPHP)
 ### Skills
 - Statistical Package for Social Sciences (SPSS) software 
@@ -26,6 +26,6 @@ Full Member | African Institute for Public Health Professionals (AIPHP)
 - Microsoft Word, PowerPoint, & Excel 
 - Infographic Design using Canva 
 - Kobo Toolbox
-- Website creation using Hostinger, WordPress.
+- Website creation using Hostinger and WordPress.
 ### Languages
 - English (Fluent)
