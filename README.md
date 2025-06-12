@@ -16,7 +16,7 @@ represented online.
 ### Certifications and License
 **Full Member** | African Institute for Public Health Professionals (AIPHP)
 
-![2X2 Passport picture]("C:\Users\Mohamed Albert\Pictures\2X2 Passport picture.jpeg") 
+![2X2_Passport_picture](2X2_Passport_picture.jpeg) 
 ### Skills
 - Statistical Package for Social Sciences (SPSS) software 
 - Data Analysis and Interpretation 
